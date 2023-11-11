@@ -77,4 +77,23 @@
   }
   
   
+  table {
+    border: black solid;
+    width: 200px;
+    height: 300px;
+  }
   
+  td {
+    border: black solid;
+
+  }
+ 
+  tr :hover {
+    background-color: #04AA6D;
+    color: white;
+    
+  }
+
+  table {
+    text-align: center;
+  }
